@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package>
   <name>roch_gazebo</name>
-  <version>1.0.8</version>
+  <version>1.0.7</version>
   <description>SawYer roch Simulator bringup</description>
 
   <author email="rgariepy@clearpathrobotics.com">Ryan Gariepy</author>
   <author email="pmukherj@clearpathrobotics.com">Prasenjit Mukherjee</author>
   <author email="pbovbel@clearpathrobotics.com">Paul Bovbel</author>
   <author email="dash@clearpathrobotics.com">Devon Ash</author>
-  <author email="wzhang@softrobtech.com">Carl</author>
+  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
 
   <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
 
@@ -28,7 +28,6 @@
   <run_depend>hector_gazebo_plugins</run_depend>
   <run_depend>roch_control</run_depend>
   <run_depend>roch_description</run_depend>
-  <run_depend>roch_bringup</run_depend>
   <run_depend>pointcloud_to_laserscan</run_depend>
   <run_depend>robot_state_publisher</run_depend>
   <run_depend>rostopic</run_depend>
