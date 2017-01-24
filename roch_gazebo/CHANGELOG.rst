@@ -1,6 +1,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package roch_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1.0.8 (2017-01-24)
+------------------
+* Adjust structure of roch_gazebo.
+* Add new gazebo world and delete old world file.
+* Add new robot.launch.xml for load model.
+* Modify all mainly files for suit Roch.
+
 1.0.7 (2017-01-22)
 ------------------
 * Modify some websites to correct.
