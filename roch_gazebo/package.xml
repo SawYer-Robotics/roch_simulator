@@ -26,7 +26,6 @@
   <run_depend>gazebo_ros</run_depend>
   <run_depend>gazebo_ros_control</run_depend>
   <run_depend>hector_gazebo_plugins</run_depend>
-  <run_depend>gazebo_ros_imu</run_depend>
   <run_depend>roch_control</run_depend>
   <run_depend>roch_description</run_depend>
   <run_depend>roch_bringup</run_depend>

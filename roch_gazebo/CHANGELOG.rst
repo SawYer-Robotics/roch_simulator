@@ -4,7 +4,6 @@ Changelog for package roch_gazebo
 1.0.9 (2017-02-06)
 ------------------
 * Remove 50.roch_gazebo.sh file in directory of env-hooks.
-* Add run depend with gazebo-ros-imu.
 
 1.0.8 (2017-01-24)
 ------------------
