@@ -2,13 +2,13 @@
 <package>
   <name>roch_simulator</name>
   <version>1.0.12</version>
-  <description>Metapackage for SawYer roch simulation software</description>
+  <description>Metapackage for Soy roch simulation software</description>
 
-  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
+  <maintainer email="carlzhang@soyrobotics.com">Carl</maintainer>
 
   <url type="website">http://ros.org/wiki/roch_simulator</url>
-  <url type="bugtracker">https://github.com/SawYer-Robotics/roch_simulator/issues</url>
-  <url type="repository">https://github.com/SawYer-Robotics/roch_simulator</url>
+  <url type="bugtracker">https://github.com/Soy-Robotics/roch_simulator/issues</url>
+  <url type="repository">https://github.com/Soy-Robotics/roch_simulator</url>
 
   <license>BSD</license>
 
